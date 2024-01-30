@@ -2,7 +2,7 @@ The script is to plot Fibonacci retracement levels for Bitcoin (BTC) in Australi
 
 Purpose: The chart is used to identify potential support and resistance levels based on Fibonacci ratios. These ratios are derived from the Fibonacci sequence, a series of numbers where each number is the sum of the two preceding ones.
 
-Data Source: Historical price data for BTC-AUD is downloaded from Yahoo Finance, spanning from January 1, 2015, to April 16, 2023.
+Data Source: Historical price data for BTC-AUD is downloaded from Yahoo Finance, spanning from January 1, 2015, to January 30, 2024.
 
 Calculation of Levels: The highest and lowest prices in this dataset are used to calculate retracement levels. The script calculates levels at 0%, 23.6%, 38.2%, 50%, 61.8%, 78.6%, and 100%.
 
